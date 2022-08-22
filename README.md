@@ -37,7 +37,7 @@
                 <!--primera imagen-->
                 <div class="col-12 col-sm-6">
                     <figure class="shadow bg-black">
-                        <img loading="lazy" src="img/imagen-1.png" class="w-100" alt="describe lo que se ve en la imagen" />
+                        <img loading="lazy" src="img/imagen-1.PNG" class="w-100" alt="describe lo que se ve en la imagen" />
                         <figcaption class="p-3 small text-white-50">"The Godfather at 50", 2022.</figcaption>
                     </figure>
                 </div>
@@ -73,14 +73,14 @@
                 <!--primera imagen-->
                 <div class="col-12 col-sm-6">
                     <figure class="shadow bg-black">
-                        <img loading="lazy" src="img/imagen-5.jpg" class="w-100" alt="describe lo que se ve en la imagen" />
+                        <img loading="lazy" src="img/imagen-5.JPG" class="w-100" alt="describe lo que se ve en la imagen" />
                         <figcaption class="p-3 small text-white-50">"Pedal power", 2022.</figcaption>
                     </figure>
                 </div>
                 <!--segunda imagen-->
                 <div class="col-12 col-sm-6">
                     <figure class="shadow bg-black">
-                        <img loading="lazy" src="img/imagen-6.png" class="w-100" alt="describe lo que se ve en la imagen" />
+                        <img loading="lazy" src="img/imagen-6.PNG" class="w-100" alt="describe lo que se ve en la imagen" />
                         <figcaption class="p-3 small text-white-50">"Ebola outbreaks", 2014.</figcaption>
                     </figure>
                 </div>
